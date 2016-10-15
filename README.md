@@ -1,6 +1,6 @@
 # Draw-It - 10 minutes App Challenge
 
-**Vidéo youtube :** [ICI](https://youtu.be/VfZhsJ1t6II)
+**Vidéo youtube :** [ICI](https://youtu.be/nkfcuklYQSE)
 
 >Le but de cette vidéo est de voir quelques concepts de développement mobile iOS et se familiariser avec Xcode via la création d'une application très simple.
 
